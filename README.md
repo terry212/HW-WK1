@@ -23,7 +23,9 @@ THEN I find a concise, descriptive title
 The codebase was refactored to meet accessibility standards and the criteria of the customer.
 No CSS or visible text was modified or changed.
 
+#### Relative Links
+
 * The URL of the deployed application.
 https://terry212.github.io/HW-WK1/
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository.
 https://github.com/terry212/HW-WK1
